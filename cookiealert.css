@@ -22,7 +22,8 @@
 }
 
 .cookiealert a {
-    text-decoration: underline
+    text-decoration: underline;
+    color: #FFFFFF;
 }
 
 .cookiealert .acceptcookies {
