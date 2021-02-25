@@ -10,8 +10,8 @@
     border-radius: 0;
     transform: translateY(100%);
     transition: all 500ms ease-out;
-    color: #ecf0f1;
-    background: #212327;
+    color: #FFFFFF;
+    background: rgba(86,86,86,.95);
 }
 
 .cookiealert.show {
